@@ -1,11 +1,11 @@
 1. Full name: Viktor Kozlov (Виктор Козлов)
 2. Contacts: 
-   * Email: soniclev@mail.ru
+   * Email: [soniclev@mail.ru](mailto:soniclev@mail.ru)
    * Discord: soniclev#7389
-   * Telegram: @soniclev
-   * Github: soniclev
-   * VK: https://vk.com/id149185992
-3. Developing, programming and other things related to IT is passion for me. I acquainted with programming in school around in 2013 year. We have learning Pascal. I can even participate in programming competition with others people in the district, but participate in another competition subject. In 2015 I had started to learn C#, which give me a very good knowledge base in programming (understanding OOP, static type languages and etc.). In 2017 I started to learn Python, which used very often. For 6 years I had wrote several programs, from simple useful scripts to sites. Also, for one year I completed around 30 homeworks and labs in C#, Python and Java (globalfreelance.by). 
+   * Telegram: [@soniclev](https://t.me/soniclev)
+   * Github: [soniclev](https://github.com/Soniclev)
+   * VK: [https://vk.com/id149185992](https://vk.com/id149185992)
+3. Developing, programming and other things related to IT is passion for me. I acquainted with programming in school around in 2013 year. We have learning Pascal. I can even participate in programming competition with others people in the district, but participate in another competition subject. In 2015 I had started to learn C#, which give me a very good knowledge base in programming (understanding OOP, static type languages and etc.). In 2017 I started to learn Python, which used very often. For 6 years I had wrote several programs, from simple useful scripts to sites. Also, for one year I completed around 30 homeworks and labs in C#, Python and Java ([globalfreelance.by](globalfreelance.by)). 
 4. Skills:
    1. Program languages:
       * C# (very good knowledge base)
