@@ -1,0 +1,1 @@
+[CV link](https://soniclev.github.io/rsschool-cv/cv)
