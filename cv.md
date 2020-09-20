@@ -33,13 +33,11 @@
    * [(C++, Arduino) A code for assembled 4-wheel car with infrared control](https://github.com/Soniclev/arduino-machine)
    * [(C#) A very simple program, which parse Source Engine demos](https://github.com/Soniclev/source-engine-demo-parser)
 6. Work experience: 
-   | Date      | Type    | Program languages, technologies, features      | Description |
-   | ----------| --------| ----------- | ----------- |
-   | 2016-2018 | Public  | C#      | Contributing to VkNet       |
-   | 2017-2018 | Private | Python, Flask, Sqlite, Neural networks      | Small face recognition project, like FindFace        |
-   | 2018      | Private | Python, C# and Java      | Completed around 30 homeworks and labs from various countries, including USA, Canada and etc.        |
-   | 2019      | Private | C#, VK API, image processing, dependency injection, multithreading      | A bot for VK community        |
-   | 2020      | Private | Python, Javascript, Redis, Websocket   | Trade bot        |
+   1. 2016-2018 | Public  | C#      | Contributing to VkNet 
+   2. 2017-2018 | Private | Python, Flask, Sqlite, Neural networks      | Small face recognition project, like FindFace
+   3. 2018      | Private | Python, C# and Java      | Completed around 30 homeworks and labs from various countries, including USA, Canada and etc.
+   4. 2019      | Private | C#, VK API, image processing, dependency injection, multithreading      | A bot for VK community
+   5.  2020      | Private | Python, Javascript, Redis, Websocket   | Trade bot
 7. Education
    1. Self-education (reading books, articles and videos)
 8. English language knowledge
