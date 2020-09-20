@@ -1,0 +1,13 @@
+body {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: snow;
+}
+
+ul > li {
+    margin: 5px;
+    list-style-type: disc;
+}
